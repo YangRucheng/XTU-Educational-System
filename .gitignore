@@ -1,0 +1,13 @@
+*.sh
+*.db
+*.jpg
+*.png
+*.txt
+*.json
+**/data
+**/result
+*config.py
+**/__pycache__
+**/node_modules
+
+!requirements.txt
